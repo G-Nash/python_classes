@@ -27,6 +27,8 @@
 #     i+=1
 
 
+#space are in one string and the stars are in another string.
+#we use the same approach while doing patterns like this
 for z in range(25):
     spc=""
     str=""
